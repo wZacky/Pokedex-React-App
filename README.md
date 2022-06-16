@@ -13,4 +13,7 @@ Page made in React consuming poke-api with Axios, with the functionality to sear
 *Detail Screen*
 
 ## Demo
-![Demo](https://j.gifs.com/r2NO4w.gif)
+[<img src="https://j.gifs.com/r2NO4w.gif" width="550" alt="demo" />](https://j.gifs.com/r2NO4w.gif)
+
+## 🔗 Links
+[![demo gif](https://img.shields.io/badge/gif-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://j.gifs.com/r2NO4w.gif)
