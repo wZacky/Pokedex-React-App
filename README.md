@@ -13,4 +13,4 @@ Page made in React consuming poke-api with Axios, with the functionality to sear
 *Detail Screen*
 
 ## Demo
-[![Demo](https://j.gifs.com/r2NO4w.gif)](https://j.gifs.com/r2NO4w.gif)
+![Demo](https://j.gifs.com/r2NO4w.gif)
