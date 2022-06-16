@@ -17,3 +17,4 @@ Page made in React consuming poke-api with Axios, with the functionality to sear
 
 ## 🔗 Links
 [![demo gif](https://img.shields.io/badge/gif-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://j.gifs.com/r2NO4w.gif)
+[![demo deploy](https://img.shields.io/badge/deploy-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://62aaf22a07095e5b2936b099--illustrious-douhua-946cbb.netlify.app/)
